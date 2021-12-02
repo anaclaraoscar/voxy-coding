@@ -55,13 +55,13 @@ If the terminal warns you to install some dependencies, the following message wi
 
 ## Usage
 
-The project has an Excel file with 6 test cases. Aimed to a higher quality of the login flow, these are the test cases:
-1- Login with unsigned e-mail.
-2- Login with unsigned mobile number.
-3- Changing the page to French
-4- Enter any e-mail address (ex: anaclara.oscar@gmail.com).
-5- Verify that when filling the e-mail field with a mobile phone, the field considers it to be invalid.
-6- Sending a message to Support
+The project has an Excel file with 6 test cases. Aimed to a higher quality of the login flow, these are the test cases: <br>
+1- Login with unsigned e-mail. <br>
+2- Login with unsigned mobile number.<br>
+3- Changing the page to French<br>
+4- Mobile phone field invalidating e-mail input.<br>
+5- Verify that when filling the e-mail field with a mobile phone, the field considers it to be invalid.<br>
+6- Sending a message to Support<br>
 
 Since the main login flow cannot be reproduced, the scenarios were chosen by observing its level of importance.
 
